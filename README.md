@@ -4,6 +4,8 @@
 
 The aim of this project is to develop a predictive model for stock prices by incorporating information from news articles. Stock prices are influenced by a multitude of factors, and news articles can be a valuable source of information that may impact market sentiments and decisions. By leveraging natural language processing (NLP) techniques and machine learning algorithms, this project seeks to predict stock price movements based on relevant news data.
 
+# Architecture Diagram 
+
                                         +------------------------+
                                         |                        |
                                         | Historical Stock Price |
